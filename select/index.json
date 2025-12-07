@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Idioteque",
+  "base_artist": "Radiohead",
+  "createdAt": "2025-12-07T14:12:04.415588Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Idioteque",
+      "artist": "Amanda Palmer",
+      "has_synced": true,
+      "path": "select/01_Idioteque_Amanda_Palmer.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Idioteque",
+      "artist": "Radiohead",
+      "has_synced": false,
+      "path": "select/02_Idioteque_Radiohead.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Idioteque",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/03_Idioteque_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Idioteque - BBC Radio One Evening Session - 15/11/00",
+      "artist": "Radiohead",
+      "has_synced": false,
+      "path": "select/04_Idioteque_-_BBC_Radio_One_Evening_Session_-_15_11_00_Radiohead.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Idioteque (BBC Radio 1, 2000-11-15)",
+      "artist": "Radiohead",
+      "has_synced": false,
+      "path": "select/05_Idioteque_(BBC_Radio_1,_2000-11-15)_Radiohead.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Idioteque - Live At Canal+ Studios, Paris",
+      "artist": "Radiohead",
+      "has_synced": false,
+      "path": "select/06_Idioteque_-_Live_At_Canal+_Studios,_Paris_Radiohead.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Idioteque (Live at Canal+ Studios Paris, 2001-04-28)",
+      "artist": "Radiohead",
+      "has_synced": false,
+      "path": "select/07_Idioteque_(Live_at_Canal+_Studios_Paris,_2001-04-28)_Radiohead.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Idioteque - Live in Oxford",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/08_Idioteque_-_Live_in_Oxford_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Idioteque (Oxford)",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/09_Idioteque_(Oxford)_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Idioteque - Live",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/10_Idioteque_-_Live_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Idioteque (Live)",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/11_Idioteque_(Live)_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Idioteque (BBC Radio One Evening Session - 15/11/00)",
+      "artist": "Radiohead",
+      "has_synced": false,
+      "path": "select/12_Idioteque_(BBC_Radio_One_Evening_Session_-_15_11_00)_Radiohead.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Idioteque (live, Canal+ Studios - 28/04/01)",
+      "artist": "Radiohead",
+      "has_synced": false,
+      "path": "select/13_Idioteque_(live,_Canal+_Studios_-_28_04_01)_Radiohead.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Idioteque  (BBC Radio One 11-15-09)",
+      "artist": "Radiohead",
+      "has_synced": false,
+      "path": "select/14_Idioteque_(BBC_Radio_One_11-15-09)_Radiohead.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Idioteque (Canal Studios - 04-28-01)",
+      "artist": "Radiohead",
+      "has_synced": false,
+      "path": "select/15_Idioteque_(Canal_Studios_-_04-28-01)_Radiohead.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Idioteque",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/16_Idioteque_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Idioteque (BBC Session)",
+      "artist": "Radiohead",
+      "has_synced": false,
+      "path": "select/17_Idioteque_(BBC_Session)_Radiohead.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Idioteque",
+      "artist": "Radiohead",
+      "has_synced": false,
+      "path": "select/pl_01_Idioteque_Radiohead.txt"
+    }
+  ]
+}
